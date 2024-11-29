@@ -14,7 +14,7 @@ body {
     align-items: center;
     gap: 2rem;
     font-size: 2rem;
-    font-family: "Playfair", "Playfair", "Roboto";
+    font-family: "Playfair", "Playfair", sans-serif;
 }
 
 input, button {
