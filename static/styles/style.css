@@ -6,7 +6,7 @@
 
 body {
     padding: 2rem;
-    background-color: #FFE4E1;
+    background-color: #ffe4e1;
     color: black;
     min-height: 100vh;
     display: flex;
@@ -14,7 +14,7 @@ body {
     align-items: center;
     gap: 2rem;
     font-size: 2rem;
-    font-family: "Verdana", "Arial", sans-serif;
+    font-family: "Playfair", "Playfair", "Roboto";
 }
 
 input, button {
